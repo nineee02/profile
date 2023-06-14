@@ -1,0 +1,42 @@
+body{
+    background-image: url(38.jpg);
+    backdrop-filter: blur(10px);
+    background-size: cover;
+    background-position: center;
+}
+.ps{
+    font-family:EucrosiaUPC;
+    text-align: center;
+    font-size: 50px;
+    background: linear-gradient(90deg, #000000 0%, #2f9cdb 150%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-size: cover;
+}h1{
+  border-radius: 15%;
+  padding: 20px;
+  text-align: center;
+ 
+}
+  
+.data{   
+    font-family:EucrosiaUPC;
+    font-size: 18px;
+    margin-left: 30%;
+}
+table{
+    font-family:EucrosiaUPC;
+    font-size: 18px;
+}
+table,th,td{
+    text-align: center;
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+table{
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+}
